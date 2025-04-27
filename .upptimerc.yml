@@ -1,36 +1,45 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Anakagung2009-bit # Your GitHub organization or username, where this repository lives
+repo: agungdevserverstatus # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Agung Dev
+    url: https://agungdev.com
+  - name: Agung News
+    url: https://news.agungdev.com
+  - name: Agung Meet
+    url: https://meet.agungdev.com
+  - name: Agung Imagen AI
+    url: https://imagen.agungdev.com
+  - name: Agung Auth
+    url: https://api.agungdev.com
+  - name: Agung Chat AI
+    url: https://chatai.agungdev.com
+  - name: Agung Account
+    url: https://account.agungdev.com
+  - name: Agung Dev Assets
+    url: https://assets.agungdev.com
+  - name: Agung Dev Download
+    url: https://dl.agungdev.com
+  - name: Agung Weather
+    url: https://weather.agungdev.com
+  - name: Agung Tasks
+    url: https://tasks.agungdev.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.agungdev.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://auth.agungdev.com/static/adev.svg
+  name: Agung Dev Server Status
+  introTitle: "**Agung Dev Server Status**"
+  introMessage: The Agung Dev Status Dashboard provides real-time information about the availability and performance of our services. This helps users stay informed about any potential issues that might affect their experience.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://agungdev.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
