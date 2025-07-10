@@ -9,8 +9,8 @@ sites:
     url: https://news.agungdev.com
   - name: Agung Meet
     url: https://meet.agungdev.com
-  - name: Agung Imagen AI
-    url: https://imagen.agungdev.com
+  - name: Agung AI Studio
+    url: https://aistudio.agungdev.com
   - name: Agung Auth
     url: https://api.agungdev.com
   - name: Agung Chat AI
