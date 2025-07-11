@@ -1,7 +1,7 @@
 url: https://weather.agungdev.com
-status: down
-code: 403
-responseTime: 86
-lastUpdated: 2025-07-11T12:31:26.514Z
+status: up
+code: 200
+responseTime: 402
+lastUpdated: 2025-07-11T13:18:50.989Z
 startTime: 2025-04-27T02:21:24.382Z
 generator: Upptime <https://github.com/upptime/upptime>
